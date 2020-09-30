@@ -3,6 +3,8 @@ Disclaimer: This is still WIP. Things will change, as I do not own the game and 
 
 # Spirit Island Insert Box
 
+[Gallery](gallery)
+
 This 3D printing project remixes parts of [Anemic's Spirit Island + BC + JE Organizer](https://www.thingiverse.com/thing:4269765).
 The remixed parts can be found in the directory [SIBCJEOrg](SIBCJEOrg).
 I also added a few own designs build in OpenSCAD.
@@ -49,15 +51,6 @@ Model                Num Config    Time Comments                                
 `Cards_Aspects`        1 No infill    ? Or use two `Cards_Generic_Big` for all big cards                `Cards.scad`
 `Cards_Invaders`       1 No infill    ? Or use the `Cards_Generic_Small` for Invaders + Reminders       `Cards.scad`
 `Cards_Reminders`      1 No infill    ? Or use the `Cards_Generic_Small` for Invaders + Reminders       `Cards.scad`
-
-
-## To do
-
-- A fear box and an energy box. They have to be about 1cm higher and wider than the BWDBS box.
-- The `PresenceBox_Lid` is not tested yet, I don't know if it works for reminder tokens.
-- The card boxes have to be tested, the individual ones as well as the generic ones. The last try (not yet in history) was too small for sleeved cards.
-- Solution for cities, towns, explorers needs to be found (or printed from Anemic's organizier)
-- Need to add images of the results etc.
 
 
 ## License
