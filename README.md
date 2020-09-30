@@ -30,27 +30,27 @@ In the table below, I show for each model whether I used infill or not, and
 what other things are important, plus how many times you need to print each model.
 
 
-Model                Num Config    Time Comments                                                        OpenSCAD file
--------------------- --- --------- ---- --------------------------------------------------------------- -----------------------
-`PresenceBox_Box`      6 Infill       ?                                                                 `PresenceBox.scad`
-`PresenceBox_Lid`      6 Infill      35 Rotate around X by 180 degrees (i.e., print upside down)        `PresenceBox.scad`
-`DahanBox_Pt_1`        1 No infill    ? Consider `DahanTray_v2`                                         `DahanBox.scad`
-`DahanBox_Pt_2`        1 No infill    ? Consider `DahanTray_v2`                                         `DahanBox.scad`
-`DahanBox_Pt_3`        1 No infill    ? Consider `DahanTray_v2`                                         `DahanBox.scad`
-`EnergyBox_Pt_1`       1 No infill    ? Consider `Energy_Tray`                                          `EnergyBox.scad`
-`EnergyBox_Pt_2`       1 No infill    ? Consider `Energy_Tray`                                          `EnergyBox.scad`
-`EnergyBox_Pt_3`       1 No infill    ? Consider `Energy_Tray`                                          `EnergyBox.scad`
-`ElementTray`          1 Infill       ? This fits only just right, might need slight scaling            `ElementTray.scad`
-`Smaller_BWDBS_Box`    5 No infill   50 One for each: Beast, Wilds, Disease, Badlands, Strife           `Smaller_BWDBS_Box.scad`
-`Cards_Unique`         1 No infill    ? Or use two `Cards_Generic_Big` for all big cards                `Cards.scad`
-`Cards_Minor`          1 No infill    ? Or use two `Cards_Generic_Big` for all big cards                `Cards.scad`
-`Cards_Major`          1 No infill    ? Or use two `Cards_Generic_Big` for all big cards                `Cards.scad`
-`Cards_Events`         1 No infill    ? Or use two `Cards_Generic_Big` for all big cards                `Cards.scad`
-`Cards_Fear`           1 No infill    ? Or use two `Cards_Generic_Big` for all big cards                `Cards.scad`
-`Cards_Blight`         1 No infill    ? Or use two `Cards_Generic_Big` for all big cards                `Cards.scad`
-`Cards_Aspects`        1 No infill    ? Or use two `Cards_Generic_Big` for all big cards                `Cards.scad`
-`Cards_Invaders`       1 No infill    ? Or use the `Cards_Generic_Small` for Invaders + Reminders       `Cards.scad`
-`Cards_Reminders`      1 No infill    ? Or use the `Cards_Generic_Small` for Invaders + Reminders       `Cards.scad`
+| Model                | Num | Config    | Time | Comments                                                        | OpenSCAD file            |
+| -------------------- | --- | --------- | ---- | --------------------------------------------------------------- | ------------------------ |
+| `PresenceBox_Box`    |   6 | Infill    |    ? |                                                                 | `PresenceBox.scad`       |
+| `PresenceBox_Lid`    |   6 | Infill    |   35 | Rotate around X by 180 degrees (i.e., print upside down)        | `PresenceBox.scad`       |
+| `DahanBox_Pt_1`      |   1 | No infill |    ? | Consider `DahanTray_v2`                                         | `DahanBox.scad`          |
+| `DahanBox_Pt_2`      |   1 | No infill |    ? | Consider `DahanTray_v2`                                         | `DahanBox.scad`          |
+| `DahanBox_Pt_3`      |   1 | No infill |    ? | Consider `DahanTray_v2`                                         | `DahanBox.scad`          |
+| `EnergyBox_Pt_1`     |   1 | No infill |    ? | Consider `Energy_Tray`                                          | `EnergyBox.scad`         |
+| `EnergyBox_Pt_2`     |   1 | No infill |    ? | Consider `Energy_Tray`                                          | `EnergyBox.scad`         |
+| `EnergyBox_Pt_3`     |   1 | No infill |    ? | Consider `Energy_Tray`                                          | `EnergyBox.scad`         |
+| `ElementTray`        |   1 | Infill    |    ? | This fits only just right, might need slight scaling            | `ElementTray.scad`       |
+| `Smaller_BWDBS_Box`  |   5 | No infill |   50 | One for each: Beast, Wilds, Disease, Badlands, Strife           | `Smaller_BWDBS_Box.scad` |
+| `Cards_Unique`       |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Minor`        |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Major`        |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Events`       |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Fear`         |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Blight`       |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Aspects`      |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Invaders`     |   1 | No infill |    ? | Or use the `Cards_Generic_Small` for Invaders + Reminders       | `Cards.scad`             |
+| `Cards_Reminders`    |   1 | No infill |    ? | Or use the `Cards_Generic_Small` for Invaders + Reminders       | `Cards.scad`             |
 
 
 ## License
