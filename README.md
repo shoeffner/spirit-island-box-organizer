@@ -19,7 +19,7 @@ I release these files under the same license.
 
 ## Print settings
 
-I sliced everything with slic3r and print using OctoPrint on an Anet A8 (with Marlin).
+I slice everything with slic3r and print using OctoPrint on an Anet A8 (with Marlin).
 
 See also slic3r/SpiritIslandBox.ini for more details.
 Note that those settings include filament and printer settings, you might want to use them as inspiration only.
