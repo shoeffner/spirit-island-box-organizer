@@ -7,7 +7,7 @@ Disclaimer: This is still WIP. Things will change, as I do not own the game and 
 
 This 3D printing project remixes parts of [Anemic's Spirit Island + BC + JE Organizer](https://www.thingiverse.com/thing:4269765).
 The remixed parts can be found in the directory [SIBCJEOrg](SIBCJEOrg).
-I also added a few own designs build in OpenSCAD.
+I also added a few own designs I built in OpenSCAD.
 
 For the card boxes I always assume standard sized sleeves around the cards.
 
