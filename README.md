@@ -24,7 +24,7 @@ I slice everything with slic3r and print using OctoPrint on an Anet A8 (with Mar
 See also [SpiritIslandBox.ini](slic3r/SpiritIslandBox.ini) for more details.
 Note that those settings include filament and printer settings, you might want to use them as inspiration only.
 
-In general, I used 0.4 mm layer height (there is nothing which needs fine details) and no infill nor supports, but for some models infill is recommended.
+In general, I used 0.4 mm layer height and no infill nor supports, but for some models infill is recommended. For the card boxes, I used 0.2 mm height so that the writings come off better, I also used a different surface pattern.
 
 In the table below, I show for each model whether I used infill or not, and
 what other things are important, plus how many times you need to print each model.
@@ -42,15 +42,15 @@ what other things are important, plus how many times you need to print each mode
 | `EnergyBox_Pt_3`     |   1 | No infill |    ? | Consider `Energy_Tray`                                          | `EnergyBox.scad`         |
 | `ElementTray`        |   1 | Infill    |    ? | This fits only just right, might need slight scaling            | `ElementTray.scad`       |
 | `Smaller_BWDBS_Box`  |   5 | No infill |   50 | One for each: Beast, Wilds, Disease, Badlands, Strife           | `Smaller_BWDBS_Box.scad` |
-| `Cards_Unique`       |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
-| `Cards_Minor`        |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
-| `Cards_Major`        |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
-| `Cards_Events`       |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
-| `Cards_Fear`         |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
-| `Cards_Blight`       |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
-| `Cards_Aspects`      |   1 | No infill |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
-| `Cards_Invaders`     |   1 | No infill |    ? | Or use the `Cards_Generic_Small` for Invaders + Reminders       | `Cards.scad`             |
-| `Cards_Reminders`    |   1 | No infill |    ? | Or use the `Cards_Generic_Small` for Invaders + Reminders       | `Cards.scad`             |
+| `Cards_Unique`       |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Minor`        |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Major`        |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Events`       |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Fear`         |   1 | Cards     |   80 | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Blight`       |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Aspects`      |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Invaders`     |   1 | Cards     |   60 | Or use the `Cards_Generic_Small` for Invaders + Reminders       | `Cards.scad`             |
+| `Cards_Reminders`    |   1 | Cards     |    ? | Or use the `Cards_Generic_Small` for Invaders + Reminders       | `Cards.scad`             |
 
 
 ## License
