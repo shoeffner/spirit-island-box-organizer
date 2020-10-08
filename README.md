@@ -32,7 +32,7 @@ what other things are important, plus how many times you need to print each mode
 
 | Model                | Num | Config    | Time | Comments                                                        | OpenSCAD file            |
 | -------------------- | --- | --------- | ---- | --------------------------------------------------------------- | ------------------------ |
-| `PresenceBox_Box`    |   6 | Infill    |    ? |                                                                 | `PresenceBox.scad`       |
+| `PresenceBox_Box`    |   6 | Infill    |   40 |                                                                 | `PresenceBox.scad`       |
 | `PresenceBox_Lid`    |   6 | Infill    |   35 | Rotate around X by 180 degrees (i.e., print upside down)        | `PresenceBox.scad`       |
 | `DahanBox_Pt_1`      |   1 | No infill |    ? | Consider `DahanTray_v2`                                         | `DahanBox.scad`          |
 | `DahanBox_Pt_2`      |   1 | No infill |    ? | Consider `DahanTray_v2`                                         | `DahanBox.scad`          |
