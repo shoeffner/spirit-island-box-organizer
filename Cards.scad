@@ -105,7 +105,7 @@ module Box()
 
             text_size = 6;
             translate([text_size / 2 + box_length_mm / 2, 
-                       box_wall_thickness_mm / 2, 
+                       box_wall_thickness_mm / 6, 
                        (box_height_mm - card_grasp_mm) / 2])
                 rotate([90, -90, 0])
                     linear_extrude(box_wall_thickness_mm)
