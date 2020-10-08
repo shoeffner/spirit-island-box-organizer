@@ -46,11 +46,11 @@ what other things are important, plus how many times you need to print each mode
 | `Cards_Minor`        |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
 | `Cards_Major`        |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
 | `Cards_Events`       |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
-| `Cards_Fear`         |   1 | Cards     |   80 | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
+| `Cards_Fear`         |   1 | Cards     |   90 | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
 | `Cards_Blight`       |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
 | `Cards_Aspects`      |   1 | Cards     |    ? | Or use two `Cards_Generic_Big` for all big cards                | `Cards.scad`             |
 | `Cards_Invaders`     |   1 | Cards     |   60 | Or use the `Cards_Generic_Small` for Invaders + Reminders       | `Cards.scad`             |
-| `Cards_Reminders`    |   1 | Cards     |    ? | Or use the `Cards_Generic_Small` for Invaders + Reminders       | `Cards.scad`             |
+| `Cards_Reminders`    |   1 | Cards     |   60 | Or use the `Cards_Generic_Small` for Invaders + Reminders       | `Cards.scad`             |
 
 
 ## License
